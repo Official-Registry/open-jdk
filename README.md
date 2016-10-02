@@ -14,5 +14,7 @@ OpenJDK  Docker image
     
 ## Link  
   
-[https://quay.io/repository/lizhongwen/open-jdk](https://quay.io/repository/lizhongwen/open-jdk)
+[https://quay.io/repository/lizhongwen/open-jdk](https://quay.io/repository/lizhongwen/open-jdk)  
+  
+[https://quay.io/repository/primeton/open-jdk](https://quay.io/repository/primeton/open-jdk)  
   
